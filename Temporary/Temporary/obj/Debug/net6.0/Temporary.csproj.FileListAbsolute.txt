@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\Temporary\Temporary\bin\Debug\net6.0\Temporary.exe
+C:\Users\Lenovo\Homework\Temporary\Temporary\bin\Debug\net6.0\Temporary.deps.json
+C:\Users\Lenovo\Homework\Temporary\Temporary\bin\Debug\net6.0\Temporary.runtimeconfig.json
+C:\Users\Lenovo\Homework\Temporary\Temporary\bin\Debug\net6.0\Temporary.dll
+C:\Users\Lenovo\Homework\Temporary\Temporary\bin\Debug\net6.0\Temporary.pdb
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.dll
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\refint\Temporary.dll
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.pdb
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\Temporary.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\Temporary\Temporary\obj\Debug\net6.0\ref\Temporary.dll
