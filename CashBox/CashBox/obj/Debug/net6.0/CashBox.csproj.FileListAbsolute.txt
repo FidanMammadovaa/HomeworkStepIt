@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Homework\CashBox\CashBox\bin\Debug\net6.0\CashBox.exe
+C:\Users\Lenovo\Homework\CashBox\CashBox\bin\Debug\net6.0\CashBox.deps.json
+C:\Users\Lenovo\Homework\CashBox\CashBox\bin\Debug\net6.0\CashBox.runtimeconfig.json
+C:\Users\Lenovo\Homework\CashBox\CashBox\bin\Debug\net6.0\CashBox.dll
+C:\Users\Lenovo\Homework\CashBox\CashBox\bin\Debug\net6.0\CashBox.pdb
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.dll
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\refint\CashBox.dll
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.pdb
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\CashBox.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\CashBox\CashBox\obj\Debug\net6.0\ref\CashBox.dll
