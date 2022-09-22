@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.exe
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.deps.json
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.runtimeconfig.json
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.dll
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\bin\Debug\net6.0\TempConverter.pdb
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.dll
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\refint\TempConverter.dll
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.pdb
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\TempConverter.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\TempConverter\TempConverter\obj\Debug\net6.0\ref\TempConverter.dll
