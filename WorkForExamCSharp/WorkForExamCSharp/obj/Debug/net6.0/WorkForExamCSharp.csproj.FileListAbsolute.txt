@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\bin\Debug\net6.0\WorkForExamCSharp.exe
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\bin\Debug\net6.0\WorkForExamCSharp.deps.json
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\bin\Debug\net6.0\WorkForExamCSharp.runtimeconfig.json
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\bin\Debug\net6.0\WorkForExamCSharp.dll
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\bin\Debug\net6.0\WorkForExamCSharp.pdb
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.AssemblyInfo.cs
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.dll
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\refint\WorkForExamCSharp.dll
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.pdb
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\WorkForExamCSharp.genruntimeconfig.cache
+C:\Users\Lenovo\Homework\WorkForExamCSharp\WorkForExamCSharp\obj\Debug\net6.0\ref\WorkForExamCSharp.dll
