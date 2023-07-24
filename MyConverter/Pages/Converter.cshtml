@@ -1,0 +1,59 @@
+﻿@page
+@model MyConverter.Pages.ConverterModel
+@{
+    ViewData["Title"] = "Converter";
+}
+
+
+@if (@Model.Response != null)
+{
+    @if (@Model.Response.Date != null)
+    {
+        <h1 id="date">Date: @Model.Response.Date</h1>
+    }
+    <img src="@Url.Content("~/css/Images/change.png")" />
+    @if (@Model.Response.ValTypes != null)
+    {
+        <form class="myContainer" method="post" asp-page-handler="OnPost">
+            <div class="formLeft" >
+                <h2>From Currency</h2>
+                <div class="form-group" >
+                    @for (int i = 0; i < Model.Response.ValTypes.Count; i++)
+                    {
+                        @if (@Model.Response.ValTypes[i].Type == "Xarici valyutalar")
+                        {
+                            <select asp-for="CurrencySelectionLeft" class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+                                @for (int j = 0; j < Model.Response.ValTypes[i].Valutes.Count; j++)
+                                {
+                                    <option>@Model.Response.ValTypes[i].Valutes[j].Code</option>
+                                }
+                            </select>
+                        }
+                    }
+                    <input class="form-control currencyValue" asp-for="UserInput" id="userInput" placeholder="Enter value:">
+                    <button type="submit" id="convertButton" class="btn btn-dark">Convert</button>
+                </div>
+            </div>
+            <div class="formRight">
+                <h2>To currency</h2>
+                <div class="form-group">
+                    @for (int i = 0; i < Model.Response.ValTypes.Count; i++)
+                    {
+                        @if (@Model.Response.ValTypes[i].Type == "Xarici valyutalar")
+                        {
+                            <select asp-for="CurrencySelectionRight" class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+                                @for (int j = 0; j < Model.Response.ValTypes[i].Valutes.Count; j++)
+                                {
+                                    <option>@Model.Response.ValTypes[i].Valutes[j].Code</option>
+                                }
+                            </select>
+                        }
+
+                    }
+                    @*<label id="resultLabel" name="resultLabel">Result: @Model.Result</label>*@
+                    <input asp-for="Result" readonly class="form-control currencyValue" value="@TempData["ConversionResult"]" />
+                </div>
+            </div>
+        </form>
+    }
+}
